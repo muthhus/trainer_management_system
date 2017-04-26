@@ -6,7 +6,7 @@
 	<groupId>com.microservice.es.ddd.cqrs.tms</groupId>
 	<artifactId>trainer_management_system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>Trainer Management System</name>
 	<description>Trainer Management System project for Spring Boot</description>
@@ -74,4 +74,7 @@
 	</build>
 
 
+	<modules>
+		<module>common-swagger</module>
+	</modules>
 </project>
