@@ -1,1 +1,1 @@
-# Trainer management system using Event Sourcing, DDD and CQRS
+# Trainer management system using ES, DDD and CQRS
