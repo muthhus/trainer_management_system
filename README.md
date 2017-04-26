@@ -1,1 +1,1 @@
-# Trainer management system using ES, DDD and CQRS
+# TMS using ES, DDD and CQRS
