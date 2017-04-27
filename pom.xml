@@ -79,7 +79,7 @@
 		<module>event-trainer</module>
 		<module>common-web</module>
 		<module>queue-trainer</module>
-
-	<module></module>  <module>common-tests</module>
+		<module>common-tests</module>
+    	<module>trainers-integration-test</module>
   </modules>
 </project>
