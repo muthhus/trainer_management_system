@@ -76,5 +76,9 @@
 
 	<modules>
 		<module>common-swagger</module>
+		<module>command-trainer</module>
+		<module>event-trainer</module>
+		<module>common-web</module>
+		<module>queue-trainer</module>
 	</modules>
 </project>
